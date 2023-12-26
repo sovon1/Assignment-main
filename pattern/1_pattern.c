@@ -1,0 +1,2 @@
+//square star pattern
+#include
